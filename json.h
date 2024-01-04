@@ -4,6 +4,7 @@
 #include "defs.h"
 #include "ascii.h"
 #include "string.h"
+#include "file.h"
 
 typedef enum {
     JSON_TYPE_INVALID = 0,
